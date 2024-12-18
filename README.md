@@ -27,4 +27,5 @@ This task demonstrates a simple 3-tier architecture using Docker. It includes th
 3. Write all the files as per directory name show above.
 4. Create directory inside mysql named as data and leave it blank. (when we will bind data directory it will work as a volume)
 5. Open docker-compose file and check the all paths are correctly written in the file. (check the spacing in file and manage it)
-6. Then run the docker-compose file and hit IP to browser.      ---{docker-compose up -d}
+6. Then run the docker-compose file  ---{docker-compose up -d} and,
+7. hit IP to browser.     
