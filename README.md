@@ -19,7 +19,7 @@ This task demonstrates a simple 3-tier architecture using Docker. It includes th
 │   └── index.html          
 └── php
     ├── Dockerfile            
-    └── process_form.php      
+    └── handler.php      
 
 ```
 1. Create main directory as 3-tier.       ---{mkdir 3-tier}
